@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yohannes, I live in addis ababa, Ethiopia.
 - 👀 I’m interested in developing mobile/web apps
-- 🌱 I’m currently learning Computer Science and Engineering at Adama Science and Technology University.
+- 🌱 I’m graduated from Adama Science and Technology University with Bsc Degree Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on projects related to mobile/web app development
 - 📫 How to reach me Email- jhon.benex@gmail.com, Telegram- t.me/jhonny_be , phone- +251934457879
 
