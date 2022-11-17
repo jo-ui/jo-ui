@@ -8,7 +8,7 @@ Full Stack Web Developer
 * 🖥️  See my portfolio at [Yohannes B](http://jo-ui.github.io/portfolio/)
 * ✉️  You can contact me at [jhon.benex@gmail.com](mailto:jhon.benex@gmail.com)
 * 🧠  I'm learning Advanced React
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborate on interesting projects
 
 ### Skills
 
