@@ -7,7 +7,7 @@ Full Stack Web Developer
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [Yohannes B](http://jo-ui.github.io/portfolio/)
 * ✉️  You can contact me at [jhon.benex@gmail.com](mailto:jhon.benex@gmail.com)
-* 🧠  I'm learning Advanced React
+* 🧠  I'm learning React related stuff
 * 🤝  I'm open to collaborate on interesting projects
 
 ### Skills
