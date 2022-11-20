@@ -4,7 +4,7 @@ Hi 👋 My name is Yohannes
 Full Stack Web Developer
 ------------------------
 
-* 🌍  I'm based in Ethiopia
+* 🌍  I'm based in Addis Ababa, Ethiopia
 * 🖥️  See my portfolio at [Yohannes B](http://jo-ui.github.io/portfolio/)
 * ✉️  You can contact me at [jhon.benex@gmail.com](mailto:jhon.benex@gmail.com)
 * 🧠  I'm learning React related stuff
