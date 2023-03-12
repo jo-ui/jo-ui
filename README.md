@@ -1,6 +1,3 @@
-Hi 👋 My name is Yohannes
-=========================
-
 Full Stack Web Developer
 ------------------------
 
